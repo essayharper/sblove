@@ -6,8 +6,7 @@ SBLOVE is a direct port of the Pico-8 game "SMASHBELOW" created by cssboy (who i
 
 
 # Compatibility
-Built using the LOVE framework, it should run smoothly on various platforms, providing accessibility to a broader audience.
-
+Built using the LOVE framework, it should run smoothly on most platforms.
 
 
 
